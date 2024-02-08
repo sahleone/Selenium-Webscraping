@@ -1,0 +1,97 @@
+﻿Irvington, NJ ♦ rhysjervis2@gmail.com ♦ 973-286-9351 ♦ github.com/sahleone  ♦ linkedin.com/in/rhys-jervis/
+________________
+
+
+Data Scientist
+Accomplished Data Scientist Specializing in End-to-End Data Project Development
+Proven and adaptable data scientist with a robust skill set dedicated to building comprehensive data projects from inception to implementation. Demonstrated success collaborating with cross-functional teams to deliver impactful results.
+Skills
+   Python (NumPy, Pandas, Scikit-learn, Stats models) | SQL/NoSQL | GIT 
+AWS (EMR, S3) | Pytorch | Statistical Modeling | Machine Learning[a][b] | Forecasting
+
+
+Technical Projects 
+
+
+Job Posting Scraper and Recommendation Engine | Link                                             Present                                                    
+* Developed a web scraping module using Selenium to extract job postings from various websites.
+* Transformed the extracted data and stored it in a Vector Database
+[c][d]
+* Used the database to generate tailored job recommendations, enhancing the job search experience for users.
+
+
+
+
+Professional Experience
+Prospect 33, Manhattan, New York                                                                      2022 - 2023                                                      Data Scientist  
+* Acted as a data scientist for a R&D AI banking solution company, leveraging advanced data analytics and  machine learning techniques to drive innovation in the financial sector.
+* Conducted data extraction processes to gather relevant data from multiple sources, creating datasets for a machine learning pipeline and employee attrition, reducing data preprocessing time.
+* Developed the company’s first forecasting machine learning pipeline using Python, SQLAlchemy, Docker, Azure SQL, and Application Insights, achieving an 85% improvement in forecasting accuracy.
+* Collaborated with database administrators and domain experts to design an optimized database table schema that efficiently stores and manages forecasted results.
+* Led the forecasting product build, collaborating with customer success, and achieved a successful launch within 5 months, exceeding client expectations. 
+
+
+Full-Time Student, Simplilearn                                                                          2021-2022
+
+
+Ministry of Health, Government of the Republic of Trinidad and Tobago                         2020-2021
+Freelance, Data Analyst
+* Served as a data analyst for the national authority and policymaker for all health systems, providing insights and data-driven recommendations to shape healthcare policies and improve national systems.
+* Designed a data dashboard for the Occupational Safety and Health department, evaluating the effectiveness of regional COVID-19 measures, resulting in improvement in safety protocols.
+* Launched a  questionnaire to assess the utilization of COVID-19 measures among 80 healthcare staff.
+* Conducted comprehensive data analysis and generated detailed reports during a 3-month project focused on assessing the effectiveness of COVID-19 safety measures, providing insights to leadership.
+Full-Time Student                                                                                          2018-2020
+
+
+University of the West Indies, St. Augustine, Trinidad and Tobago                                      2018
+Teaching Assistant
+* Instructed a class of 30 undergraduate students in R programming, effectively equipping them with valuable data analysis skills.
+* Conducted in-depth reviews of lecture materials, enhancing students' academic performance, leading to an average class grade of B/B+ and 90% course completion. 
+* Assisted with transcript marking and grade distribution, ensuring accurate recordkeeping for the course.
+
+
+Education & Professional Development 
+________________
+
+
+Post Graduate Program in Data Engineering Simplilearn with Purdue University, 2022
+Master of Science in  Statistics, University of The West Indies, 2019                           
+Bachelor of Science, Actuarial Science, University of The West Indies, 2016
+Data Science, Udacity, 2020
+Large Language Models: Application through Production, Databricks,  2023
+Large Language Models: Foundation Models from the Ground Up, edX, 2024                  
+
+
+
+
+
+
+
+
+[a]Data Visualization
+Machine Learning
+Project Management
+Predictive Analysis
+Data & Analytics
+Data Mining 
+Business Strategy
+
+
+Machine Learning 
+
+
+
+
+
+
+Relational Databases
+
+
+Forecasting
+Efficiency Improvements
+
+
+Dashboard Development
+[b]Stakeholder Engagement, Cross-collaboration, Business Insights, Customer Relations, User Experience
+[c]What are you building? What is the aim? What is this tool for? Which technologies? What progress have you've made
+[d]@rhysjervis2@gmail.com Add 2-3 bullets for this
